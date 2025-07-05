@@ -7,6 +7,8 @@ class example1{
       String name= scan.nextLine();
       int age =scan.nextInt();
       System.out.println("My name is "+name);
-      System.out.print("My age is "+age);  
+      System.out.print("My age is "+age); 
+      scan.close();
+       
     }
 }

@@ -12,6 +12,8 @@ class ex2 {
         System.out.println("My name is "+name);
         System.out.println("My age is "+age);
         System.out.println("My address is "+address);
+        scan.close();
+        
 
     }
     
